@@ -1,0 +1,8 @@
+{
+  "name": "ShareGPT",
+  "description": "Native Gemini chat client with custom prompts management, JSON import/export, and local-only storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

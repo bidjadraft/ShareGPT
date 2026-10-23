@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean Material speech bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M39,26 L69,26 C75.6,26 81,31.4 81,38 L81,62 C81,68.6 75.6,74 69,74 L45,74 L32,84 L35,74 L39,74 C32.4,74 27,68.6 27,62 L27,38 C27,31.4 32.4,26 39,26 Z" />
+
+    <!-- Share icon connecting branches inside the bubble -->
+    <path
+        android:strokeColor="#4F46E5"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M46,50 L62,41 M46,50 L62,59" />
+
+    <!-- Share icon three circular nodes inside the bubble -->
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M46,45 C48.76,45 51,47.24 51,50 C51,52.76 48.76,55 46,55 C43.24,55 41,52.76 41,50 C41,47.24 43.24,45 46,45 Z" />
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M62,36 C64.76,36 67,38.24 67,41 C67,43.76 64.76,46 62,46 C59.24,46 57,43.76 57,41 C57,38.24 59.24,36 62,36 Z" />
+    <path
+        android:fillColor="#4F46E5"
+        android:pathData="M62,54 C64.76,54 67,56.24 67,59 C67,61.76 64.76,64 62,64 C59.24,64 57,61.76 57,59 C57,56.24 59.24,54 62,54 Z" />
+</vector>
